@@ -1,0 +1,16 @@
+Menu:
+	-resume game
+	-return to title
+	-exit
+
+Scenes:
+	-Lobby
+	-Title
+	-Game
+
+Game:
+	-shooting
+	-spawn enemies
+	-enemy pathing and ai
+	-health and damage
+	
